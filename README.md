@@ -148,6 +148,8 @@ While the idea of neuroquantum science and computing is gaining interest, it rem
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Neuroscience](https://github.com/sourceduty/Neuroscience)
+<br>
+[Neuroquantum Simulator](https://chatgpt.com/g/g-srlpn9o6e-neuroquantum-simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
