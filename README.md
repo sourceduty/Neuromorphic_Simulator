@@ -125,6 +125,8 @@ def simulate_depression():
 simulate_depression()
 ```
 
+This code is intended for educational purposes and demonstrates how neuromorphic principles can be applied to simulate a complex phenomenon like depression in a simplified manner.
+
 <br>
 </details>
 
